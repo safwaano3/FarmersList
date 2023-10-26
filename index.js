@@ -1,6 +1,9 @@
 // Import Classes Here
 
-
+let Product = require("./classes/Product.js");
+let Cart = require("./classes/Cart.js");
+let Customer = require("./classes/Customer.js");
+let Auth = require("./classes/Auth.js");
 
 
 
